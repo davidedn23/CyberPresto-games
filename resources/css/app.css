@@ -1,0 +1,10 @@
+/* Bootstrap */
+@import 'bootstrap';
+/* Bootstrap-icons */
+@import 'bootstrap-icons';
+/* AOS */
+@import 'aos/dist/aos.css';
+/* icons bootstrap */
+@import 'bootstrap-icons';
+/* My style */
+@import './style.css';
